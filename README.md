@@ -1,4 +1,3 @@
-# NJU2020DataScience
 # 目录结构
 
 ├─data		数据
