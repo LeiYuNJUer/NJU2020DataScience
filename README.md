@@ -4,43 +4,43 @@
 
 │  ├─focus		重点新闻的评论  
 
-│  ├─quit_rubbish		人工标注时的无效文本  
+│    ├─quit_rubbish		人工标注时的无效文本  
 
-│  ├─sentimentCorpus		语料库  
+│    ├─sentimentCorpus		语料库  
 
-│  │  ├─中性  
+│    │    ├─中性  
 
-│  │  ├─乐观  
+│    │    ├─乐观  
 
-│  │  ├─喜悦  
+│    │    ├─喜悦  
 
-│  │  ├─嘲讽  
+│    │    ├─嘲讽  
 
-│  │  ├─忧虑  
+│    │    ├─忧虑  
 
-│  │  └─愤怒  
+│    │    └─愤怒  
 
-│  ├─sourceData		爬取的源数据  
+│    ├─sourceData		爬取的源数据  
 
-│  ├─stageData		划分阶段后的新闻数据  
+│    ├─stageData		划分阶段后的新闻数据  
 
-│  │  ├─stage_1  
+│    │    ├─stage_1  
 
-│  │  ├─stage_2  
+│    │    ├─stage_2  
 
-│  │  ├─stage_3  
+│    │    ├─stage_3  
 
-│  │  └─stage_4  
+│    │    └─stage_4  
 
-│  └─stageSentiment		各个阶段评论的各类情绪的计数  
+│    └─stageSentiment		各个阶段评论的各类情绪的计数  
 
-│      ├─stage_1  
+│          ├─stage_1  
 
-│      ├─stage_2  
+│          ├─stage_2  
 
-│      ├─stage_3  
+│          ├─stage_3  
 
-│      └─stage_4  
+│          └─stage_4  
 
 └─src	源码  
 
